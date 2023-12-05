@@ -1,29 +1,84 @@
+/* Tag Details */
+
 body {
-    background-color: #E1EBE9;
-}
-
-hr {
-    /* background-color: white; */
-    /* border-style: none; */
-    border-style: dotted none none;
-    height: 0px;
-    width: 60px;
-    border-width: 5px;
-    border-color: grey;
-}
-
-img {
-    height: 200px;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    color: #44B29B;
+    line-height: 2;
+}
+
+
+h2 {
+    color: #11999E;
+    font-weight: normal;
 }
 
 h3 {
-    color: #44B29B;
+    color: #11999E;
 }
 
-.circular {
-    border-radius: 100%;
+a {
+    color: #11999E;
+}
+
+/* Class Details */
+
+.im_om {
+    vertical-align: middle;
+    color: #4AB19A;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    line-height: 200%;
+    /* width: 240px; */
+    font-family: 'Sacramento', cursive;
+
+}
+
+.top_container {
+    background-color: #E0EBE8;
+    padding: 20px;
+    line-height: 2;
+
+}
+
+
+.top_cloud {
+    position: absolute;
+    right: 10%;
+    line-height: 2;
+
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 10%;
+}
+
+.prog_stud {
+    margin: 0;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+}
+
+.text_left {
+    text-align: left;
+}
+
+.sitar {
+    width: 25%;
+    margin-right: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: left;
+}
+
+.sing_para {
+    line-height: 2;
+
 }
